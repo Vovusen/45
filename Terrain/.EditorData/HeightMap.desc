@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "D:/Arma Maps/Shevchenka/Map&Heightmap/heightmap.png"
+ Flags 5
+ MinHeight -1000000
+ ResampleMinHeight 90
+ ResampleMaxHeight 190
+}

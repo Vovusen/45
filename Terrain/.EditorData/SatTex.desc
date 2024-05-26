@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "D:/Arma Maps/Shevchenka/Map&Heightmap/mapnew.png"
+ sRGBOutput 1
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

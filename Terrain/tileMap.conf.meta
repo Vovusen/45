@@ -1,0 +1,18 @@
+MetaFileClass {
+ Name "{322777424645EC75}Terrain/tileMap.conf"
+ Configurations {
+  CONFResourceClass PC {
+   Present No
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
