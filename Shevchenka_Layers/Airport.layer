@@ -1,0 +1,2838 @@
+$grp SplineShapeEntity {
+ {
+  coords 4508.618 168.094 6019.935
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -3.719 0 -2.158
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.92 0 38.985
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -3.719 0 -2.158
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.92 0 38.985
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4503.619 168.094 6094.238
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -3.329 0 5.88
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.53 0 47.023
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -3.329 0 5.88
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.53 0 47.023
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4575.251 168.094 5302.015
+  Points {
+   ShapePoint "{6182D6A655AD24BC}" {
+    Position -0.652 0 -0.028
+   }
+   ShapePoint "{6182D6A655AD3460}" {
+    Position -60.211 0 1045.165
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -0.652 0 -0.028
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -60.211 0 1045.165
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4517.851 168.094 6180.664
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -21.912 0 0.73
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -24.113 0 41.874
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -21.912 0 0.73
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -24.113 0 41.874
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4498.485 168.094 6249.475
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -7.163 0 12.238
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -9.364 0 53.381
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -7.163 0 12.238
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -9.364 0 53.381
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4540.162 168.094 5297.188
+  Points {
+   ShapePoint "{6182D6A655AD24BC}" {
+    Position -22.346 0 2.012
+   }
+   ShapePoint "{6182D6A655AD3460}" {
+    Position -81.906 0 1047.205
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -22.346 0 2.012
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -81.906 0 1047.205
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4456.608 168.094 6345.144
+  Points {
+   ShapePoint "{6182D6A70704C990}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6A70704D837}" {
+    Position 59.676 0 -1047.239
+   }
+  }
+  {
+   RoadGeneratorEntity : "{97112CF50AD96F7A}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "55D87CCC3BAF5384"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position 0 0 0
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position 59.676 0 -1047.239
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4576.015 168.094 5301.324
+  Points {
+   ShapePoint "{6182D6A7DA78046B}" {
+    Position -0.054 0 0.068
+   }
+   ShapePoint "{6182D6A7DD5D2C7A}" {
+    Position -59.496 0 1047.062
+   }
+  }
+  {
+   RoadGeneratorEntity : "{97112CF50AD96F7A}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "55D87CCC3BAF5384"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position -0.054 0 0.068
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position -59.496 0 1047.062
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4560.537 168.094 5391.02
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -22.8 0 58.854
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -25.263 0 99.92
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -22.8 0 58.854
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -25.263 0 99.92
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4516.595 168.094 6348.375
+  Points {
+   ShapePoint "{6182D6A7F687F8DD}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6A7F687081F}" {
+    Position -60.019 0 -3.201
+   }
+  }
+  {
+   RoadGeneratorEntity : "{97112CF50AD96F7A}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "55D87CCC3BAF5384"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position 0 0 0
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position -60.019 0 -3.201
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4516.162 168.094 5297.943
+  Points {
+   ShapePoint "{6182D6A71B325ADB}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6A71B326BCB}" {
+    Position 59.893 0 3.43
+   }
+  }
+  {
+   RoadGeneratorEntity : "{FB451815B61DE054}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_02.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "566C748FFDEE84E8"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position 0 0 0
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position 59.893 0 3.43
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4544.709 168.094 5328.324
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -2.67 0 41.004
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.133 0 82.07
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -2.67 0 41.004
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.133 0 82.07
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4535.343 168.094 5485.522
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -2.361 0 43.26
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -4.562 0 84.403
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -2.361 0 43.26
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -4.562 0 84.403
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4543.728 168.094 5569.648
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -15.575 0 40.819
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -17.776 0 81.962
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -15.575 0 40.819
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -17.776 0 81.962
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4525.076 168.094 5796.075
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -6.103 0 -22.288
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -8.304 0 18.855
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -6.103 0 -22.288
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -8.304 0 18.855
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4529.073 168.094 5668.302
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -5.397 0 24.128
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -7.599 0 65.271
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.397 0 24.128
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -7.599 0 65.271
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4517.083 168.094 5937.419
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -7.433 0 -1.104
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -9.634 0 40.039
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -7.433 0 -1.104
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -9.634 0 40.039
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4519.521 168.094 5772.8
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -5.226 0 81.49
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -7.427 0 122.633
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.226 0 81.49
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -7.427 0 122.633
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4479.155 168.094 5294.712
+  Points {
+   ShapePoint "{6182D6A59324491A}" {
+    Position -59.046 0 1.127
+   }
+   ShapePoint "{6182D6A593245819}" {
+    Position -118.584 0 1047.139
+   }
+  }
+  {
+   RoadGeneratorEntity : "{809E3A39348EE6DC}PrefabLibrary/Generators/Roads/Concrete/RG_Runway_60m.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "54C4E8577E07574D"
+      SplinePoints {
+       ShapePoint "{6182D6A5F5AAE189}" {
+        Position 818.605 -0.132 978.57
+       }
+       ShapePoint "{6182D6A5F5AAE160}" {
+        Position 1844.385 -0.132 765.352
+       }
+      }
+      IsClosedSpline 0
+      Width 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4459.166 168.094 5255.41
+  Points {
+   ShapePoint "{6182D6A59324491A}" {
+    Position 86.941 0 44.221
+   }
+   ShapePoint "{6182D6A593245819}" {
+    Position 27.403 0 1091.36
+   }
+  }
+  {
+   RoadGeneratorEntity : "{809E3A39348EE6DC}PrefabLibrary/Generators/Roads/Concrete/RG_Runway_60m.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "54C4E8577E07574D"
+      SplinePoints {
+       ShapePoint "{6182D6A5F5AAE189}" {
+        Position 822.446 -0.132 826.403
+       }
+       ShapePoint "{6182D6A5F5AAE160}" {
+        Position 1849.315 -0.132 612.893
+       }
+      }
+      IsClosedSpline 0
+      Width 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4493.041 168.094 6258.178
+  Points {
+   ShapePoint "{6182D6B2516D7379}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B25152790F}" {
+    Position 3.292 0 -84.856
+   }
+  }
+  {
+   RoadGeneratorEntity : "{0CDA4ABE0A49F91C}PrefabLibrary/Generators/Decals/Runway/RG_SkidMarks_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5688A250F8A13691"
+      SplinePoints {
+       ShapePoint "{5688A25092765CA0}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5688A25092765B03}" {
+        Position 3.292 0 -84.856
+       }
+      }
+      IsClosedSpline 0
+      Width 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4543.881 168.094 5351.808
+  Points {
+   ShapePoint "{6182D6B2587C6036}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B2587C713F}" {
+    Position -5.005 0 82.155
+   }
+  }
+  {
+   RoadGeneratorEntity : "{AFE6F85238489DC0}PrefabLibrary/Generators/Decals/Runway/RG_SkidMarks_01_Light.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5688A250E979A34A"
+      SplinePoints {
+       ShapePoint "{5688A25092765CA0}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5688A25092765B03}" {
+        Position -5.005 0 82.155
+       }
+      }
+      IsClosedSpline 0
+      Width 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4618.429 168.094 5546.464
+  Points {
+   ShapePoint "{6182D6B405B7AD7D}" {
+    Position -62.623 0 95.487
+   }
+   ShapePoint "{6182D6B56C85396B}" {
+    Position -3.156 0 74.119
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 3.748 0 -60.453
+      OutTangent 3.748 0 -60.453
+     }
+    }
+   }
+   ShapePoint "{6182D6B5359A87CF}" {
+    Position 1.034 0 0.06
+   }
+   ShapePoint "{6182D6B5359A9672}" {
+    Position 6.691 0 -96.909
+   }
+   ShapePoint "{6182D6B538534A13}" {
+    Position 10.879 0 -190.858
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -7.157 0 -62.315
+      OutTangent -7.157 0 -62.315
+     }
+    }
+   }
+   ShapePoint "{6182D6B53E225C20}" {
+    Position -43.378 0 -216.759
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -44.184 0 10.571
+      OutTangent -44.184 0 10.571
+     }
+    }
+   }
+   ShapePoint "{6182D6B471FD08C1}" {
+    Position -75.389 0 -175.569
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    RoadWidth 1
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position -62.623 0 95.487
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -3.156 0 74.119
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 3.748 0 -60.453
+          OutTangent 3.748 0 -60.453
+         }
+        }
+       }
+       ShapePoint "{6182D6B550E060C4}" {
+        Position 1.034 0 0.06
+       }
+       ShapePoint "{6182D6B550E061DA}" {
+        Position 6.691 0 -96.909
+       }
+       ShapePoint "{6182D6B56C851E95}" {
+        Position 10.879 0 -190.858
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -7.157 0 -62.315
+          OutTangent -7.157 0 -62.315
+         }
+        }
+       }
+       ShapePoint "{6182D6B405B78848}" {
+        Position -43.378 0 -216.759
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -44.184 0 10.571
+          OutTangent -44.184 0 10.571
+         }
+        }
+       }
+       ShapePoint "{6182D6B471FDE117}" {
+        Position -75.389 0 -175.569
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4724.883 168.094 5539.494
+  Points {
+   ShapePoint "{6182D6B4835D2258}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B4835D3027}" {
+    Position -40.837 -0 -2.143
+   }
+   ShapePoint "{6182D6B48495FFF5}" {
+    Position -74.17 -0 -4.67
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -32.075 0 -2.33
+      OutTangent -32.075 0 -2.33
+     }
+    }
+   }
+   ShapePoint "{6182D6B48918142D}" {
+    Position -105.811 -0 7.355
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 0 0 0
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -40.837 -0 -2.143
+       }
+       ShapePoint "{6182D6B494059171}" {
+        Position -74.17 -0 -4.67
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -32.075 0 -2.33
+          OutTangent -32.075 0 -2.33
+         }
+        }
+       }
+       ShapePoint "{6182D6B494059250}" {
+        Position -105.811 -0 7.355
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4724.857 168.094 5539.505
+  Points {
+   ShapePoint "{6182D6B4835D2258}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B4835D3027}" {
+    Position -40.837 -0 -2.143
+   }
+   ShapePoint "{6182D6B48495FFF5}" {
+    Position -74.17 -0 -4.67
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -32.075 0 -2.33
+      OutTangent -32.075 0 -2.33
+     }
+    }
+   }
+   ShapePoint "{6182D6B48918142D}" {
+    Position -103.988 -0 -23.684
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 0 0 0
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -40.837 -0 -2.143
+       }
+       ShapePoint "{6182D6B494059171}" {
+        Position -74.17 -0 -4.67
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -32.075 0 -2.33
+          OutTangent -32.075 0 -2.33
+         }
+        }
+       }
+       ShapePoint "{6182D6B494059250}" {
+        Position -103.988 -0 -23.684
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4728.196 168.094 5472.42
+  Points {
+   ShapePoint "{6182D6B4835D2258}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B4835D3027}" {
+    Position -40.837 -0 -2.143
+   }
+   ShapePoint "{6182D6B48495FFF5}" {
+    Position -74.17 -0 -4.67
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -32.075 0 -2.33
+      OutTangent -32.075 0 -2.33
+     }
+    }
+   }
+   ShapePoint "{6182D6B48918142D}" {
+    Position -103.988 -0 -23.684
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 0 0 0
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -40.837 -0 -2.143
+       }
+       ShapePoint "{6182D6B494059171}" {
+        Position -74.17 -0 -4.67
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -32.075 0 -2.33
+          OutTangent -32.075 0 -2.33
+         }
+        }
+       }
+       ShapePoint "{6182D6B494059250}" {
+        Position -103.988 -0 -23.684
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4728.221 168.093 5472.409
+  Points {
+   ShapePoint "{6182D6B4835D2258}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B4835D3027}" {
+    Position -40.837 -0 -2.143
+   }
+   ShapePoint "{6182D6B48495FFF5}" {
+    Position -74.17 -0 -4.67
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -32.075 0 -2.33
+      OutTangent -32.075 0 -2.33
+     }
+    }
+   }
+   ShapePoint "{6182D6B48918142D}" {
+    Position -105.811 -0 7.355
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 0 0 0
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -40.837 -0 -2.143
+       }
+       ShapePoint "{6182D6B494059171}" {
+        Position -74.17 -0 -4.67
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -32.075 0 -2.33
+          OutTangent -32.075 0 -2.33
+         }
+        }
+       }
+       ShapePoint "{6182D6B494059250}" {
+        Position -105.811 -0 7.355
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4732.204 168.094 5407.548
+  Points {
+   ShapePoint "{6182D6B4835D2258}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B4835D3027}" {
+    Position -40.837 -0 -2.143
+   }
+   ShapePoint "{6182D6B48495FFF5}" {
+    Position -74.17 -0 -4.67
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -32.075 0 -2.33
+      OutTangent -32.075 0 -2.33
+     }
+    }
+   }
+   ShapePoint "{6182D6B48918142D}" {
+    Position -103.988 -0 -23.684
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 0 0 0
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -40.837 -0 -2.143
+       }
+       ShapePoint "{6182D6B494059171}" {
+        Position -74.17 -0 -4.67
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -32.075 0 -2.33
+          OutTangent -32.075 0 -2.33
+         }
+        }
+       }
+       ShapePoint "{6182D6B494059250}" {
+        Position -103.988 -0 -23.684
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4732.23 168.094 5407.537
+  Points {
+   ShapePoint "{6182D6B4835D2258}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B4835D3027}" {
+    Position -40.837 -0 -2.143
+   }
+   ShapePoint "{6182D6B48495FFF5}" {
+    Position -74.17 -0 -4.67
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -32.075 0 -2.33
+      OutTangent -32.075 0 -2.33
+     }
+    }
+   }
+   ShapePoint "{6182D6B48918142D}" {
+    Position -105.811 -0 7.355
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 0 0 0
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -40.837 -0 -2.143
+       }
+       ShapePoint "{6182D6B494059171}" {
+        Position -74.17 -0 -4.67
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -32.075 0 -2.33
+          OutTangent -32.075 0 -2.33
+         }
+        }
+       }
+       ShapePoint "{6182D6B494059250}" {
+        Position -105.811 -0 7.355
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4735.41 168.094 5337.509
+  Points {
+   ShapePoint "{6182D6B4835D2258}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B4835D3027}" {
+    Position -40.837 -0 -2.143
+   }
+   ShapePoint "{6182D6B48495FFF5}" {
+    Position -74.17 -0 -4.67
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -32.075 0 -2.33
+      OutTangent -32.075 0 -2.33
+     }
+    }
+   }
+   ShapePoint "{6182D6B48918142D}" {
+    Position -110.097 -0 9.95
+   }
+  }
+  {
+   RoadGeneratorEntity : "{C7A5A7BD517534DA}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01_Yellow.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8E4228BE30287"
+      SplinePoints {
+       ShapePoint "{56A8E422A6B33671}" {
+        Position 0 0 0
+       }
+       ShapePoint "{56A8E422A6B3348B}" {
+        Position -40.837 0 -2.143
+       }
+       ShapePoint "{6182D6B494059171}" {
+        Position -74.17 0 -4.67
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -32.075 0 -2.33
+          OutTangent -32.075 0 -2.33
+         }
+        }
+       }
+       ShapePoint "{6182D6B494059250}" {
+        Position -110.097 0 9.95
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4648.338 168.094 5534.466
+  Points {
+   ShapePoint "{6182D6B75703C2D9}" {
+    Position -5.596 -0 93.216
+   }
+   ShapePoint "{6182D6B7E9133A08}" {
+    Position 0.474 -0 0.031
+   }
+   ShapePoint "{6182D6B7E9134A30}" {
+    Position 4.955 -0 -66.667
+   }
+   ShapePoint "{6182D6B7EE3B1E14}" {
+    Position 8.787 -0 -131.366
+   }
+   ShapePoint "{6182D6B7ED62A11D}" {
+    Position 12.904 -0 -201.372
+   }
+   ShapePoint "{6182D6B7F96D5DC1}" {
+    Position 18.234 -0 -293.745
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.596 0 93.216
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position 0.474 0 0.031
+       }
+       ShapePoint "{6182D6B74FDE8908}" {
+        Position 4.955 0 -66.667
+       }
+       ShapePoint "{6182D6B74FDE8968}" {
+        Position 8.787 0 -131.366
+       }
+       ShapePoint "{6182D6B74FDE8AA0}" {
+        Position 12.904 0 -201.372
+       }
+       ShapePoint "{6182D6B75703B513}" {
+        Position 18.234 0 -293.745
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4713.331 168.093 5543.706
+  Points {
+   ShapePoint "{6182D6B75703C2D9}" {
+    Position -5.596 -0 93.216
+   }
+   ShapePoint "{6182D6B7E9133A08}" {
+    Position 0.474 -0 0.031
+   }
+   ShapePoint "{6182D6B7E9134A30}" {
+    Position 4.955 -0 -66.667
+   }
+   ShapePoint "{6182D6B7EE3B1E14}" {
+    Position 8.787 -0 -131.366
+   }
+   ShapePoint "{6182D6B7ED62A11D}" {
+    Position 12.904 -0 -201.372
+   }
+   ShapePoint "{6182D6B7F96D5DC1}" {
+    Position 18.234 -0 -293.745
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.596 -0 93.216
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position 0.474 -0 0.031
+       }
+       ShapePoint "{6182D6B74FDE8908}" {
+        Position 4.955 -0 -66.667
+       }
+       ShapePoint "{6182D6B74FDE8968}" {
+        Position 8.787 -0 -131.366
+       }
+       ShapePoint "{6182D6B74FDE8AA0}" {
+        Position 12.904 -0 -201.372
+       }
+       ShapePoint "{6182D6B75703B513}" {
+        Position 18.234 -0 -293.745
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4367.502 168.094 6253.252
+  Points {
+   ShapePoint "{6182D6B2516D7379}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B25152790F}" {
+    Position 3.292 0 -84.856
+   }
+  }
+  {
+   RoadGeneratorEntity : "{0CDA4ABE0A49F91C}PrefabLibrary/Generators/Decals/Runway/RG_SkidMarks_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5688A250F8A13691"
+      SplinePoints {
+       ShapePoint "{5688A25092765CA0}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5688A25092765B03}" {
+        Position 3.292 0 -84.856
+       }
+      }
+      IsClosedSpline 0
+      Width 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4365.213 168.094 6257.389
+  Points {
+   ShapePoint "{6182D6B2516D7379}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B25152790F}" {
+    Position 3.292 0 -84.856
+   }
+  }
+  {
+   RoadGeneratorEntity : "{0CDA4ABE0A49F91C}PrefabLibrary/Generators/Decals/Runway/RG_SkidMarks_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5688A250F8A13691"
+      SplinePoints {
+       ShapePoint "{5688A25092765CA0}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5688A25092765B03}" {
+        Position 3.292 0 -84.856
+       }
+      }
+      IsClosedSpline 0
+      Width 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4416.051 168.094 5351.019
+  Points {
+   ShapePoint "{6182D6B2587C6036}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6B2587C713F}" {
+    Position -5.005 0 82.155
+   }
+  }
+  {
+   RoadGeneratorEntity : "{AFE6F85238489DC0}PrefabLibrary/Generators/Decals/Runway/RG_SkidMarks_01_Light.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "5688A250E979A34A"
+      SplinePoints {
+       ShapePoint "{5688A25092765CA0}" {
+        Position 0 0 0
+       }
+       ShapePoint "{5688A25092765B03}" {
+        Position -5.005 0 82.155
+       }
+      }
+      IsClosedSpline 0
+      Width 60
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4391.693 168.094 5772.01
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -5.226 0 81.49
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -7.427 0 122.633
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.226 0 81.49
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -7.427 0 122.633
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4432.708 168.094 5390.23
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -22.8 0 58.854
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -25.263 0 99.92
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -22.8 0 58.854
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -25.263 0 99.92
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4390.023 168.094 6179.875
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -21.912 0 0.73
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -24.113 0 41.874
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -21.912 0 0.73
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -24.113 0 41.874
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4416.881 168.094 5327.533
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -2.67 0 41.004
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.133 0 82.07
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -2.67 0 41.004
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.133 0 82.07
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4416.881 168.094 5327.533
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -2.67 0 41.004
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.133 0 82.07
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -2.67 0 41.004
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.133 0 82.07
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4415.9 168.094 5568.858
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -15.575 0 40.819
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -17.776 0 81.962
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -15.575 0 40.819
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -17.776 0 81.962
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4370.655 168.094 6248.686
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -7.163 0 12.238
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -9.364 0 53.381
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -7.163 0 12.238
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -9.364 0 53.381
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4407.512 168.094 5484.732
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -2.361 0 43.26
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -4.562 0 84.403
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -2.361 0 43.26
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -4.562 0 84.403
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4380.789 168.094 6019.146
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -3.719 0 -2.158
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.92 0 38.985
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -3.719 0 -2.158
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.92 0 38.985
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4375.791 168.094 6093.448
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -3.329 0 5.88
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.53 0 47.023
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -3.329 0 5.88
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.53 0 47.023
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4390.426 168.094 6343.665
+  Points {
+   ShapePoint "{6182D6A7F687F8DD}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6A7F687081F}" {
+    Position -60.019 0 -3.201
+   }
+  }
+  {
+   RoadGeneratorEntity : "{97112CF50AD96F7A}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "55D87CCC3BAF5384"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position 0 0 0
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position -60.019 0 -3.201
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4450.596 168.094 5297.124
+  Points {
+   ShapePoint "{6182D6A7F687F8DD}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6A7F687081F}" {
+    Position -60.019 0 -3.201
+   }
+  }
+  {
+   RoadGeneratorEntity : "{97112CF50AD96F7A}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "55D87CCC3BAF5384"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position 0 0 0
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position -60.019 0 -3.201
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4401.244 168.094 5667.512
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -5.397 0 24.128
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -7.599 0 65.271
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.397 0 24.128
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -7.599 0 65.271
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4389.255 168.094 5936.63
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -7.433 0 -1.104
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -9.634 0 40.039
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -7.433 0 -1.104
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -9.634 0 40.039
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4389.255 168.094 5936.63
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -7.433 0 -1.104
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -9.634 0 40.039
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -7.433 0 -1.104
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -9.634 0 40.039
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4397.247 168.094 5795.286
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -6.103 0 -22.288
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -8.304 0 18.855
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -6.103 0 -22.288
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -8.304 0 18.855
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4378.08 168.094 6089.311
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -3.329 0 5.88
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -5.53 0 47.023
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -3.329 0 5.88
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -5.53 0 47.023
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4403.533 168.094 5663.375
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -5.397 0 24.128
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -7.599 0 65.271
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.397 0 24.128
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -7.599 0 65.271
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4393.982 168.094 5767.873
+  Points {
+   ShapePoint "{6182D6A728E18382}" {
+    Position -5.226 0 81.49
+   }
+   ShapePoint "{6182D6A728E1935B}" {
+    Position -7.427 0 122.633
+   }
+  }
+  {
+   RoadGeneratorEntity : "{A45618A34EFDCC4B}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line80_01.et" {
+    coords 0 0 0
+    RoadWidth 1.5
+    {
+     RoadEntity {
+      ID "56A8C9F9AF69987F"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.226 0 81.49
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -7.427 0 122.633
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4469.813 168.094 5303.765
+  Points {
+   ShapePoint "{6182D6A655AD24BC}" {
+    Position -22.346 0 2.012
+   }
+   ShapePoint "{6182D6A655AD3460}" {
+    Position -80.611 -0 1033.829
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -22.346 0 2.012
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -80.611 -0 1033.829
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4413.014 168.094 5302.763
+  Points {
+   ShapePoint "{6182D6A655AD24BC}" {
+    Position -22.346 0 2.012
+   }
+   ShapePoint "{6182D6A655AD3460}" {
+    Position -80.792 -0 1029.835
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -22.346 0 2.012
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -80.792 -0 1029.835
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4330.309 168.094 6340.896
+  Points {
+   ShapePoint "{6182D6A70704C990}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6A70704D837}" {
+    Position 59.676 0 -1047.239
+   }
+  }
+  {
+   RoadGeneratorEntity : "{97112CF50AD96F7A}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "55D87CCC3BAF5384"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position 0 0 0
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position 59.676 0 -1047.239
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4391.778 168.094 6306.312
+  angleY -179.068
+  Points {
+   ShapePoint "{6182D6A70704C990}" {
+    Position 0 0 0
+   }
+   ShapePoint "{6182D6A70704D837}" {
+    Position 59.676 0 -1047.239
+   }
+  }
+  {
+   RoadGeneratorEntity : "{97112CF50AD96F7A}PrefabLibrary/Generators/Decals/Runway/RG_RunwayBorder_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "55D87CCC3BAF5384"
+      SplinePoints {
+       ShapePoint "{55D87CCCDDB60B81}" {
+        Position 0 0 0
+       }
+       ShapePoint "{55D87CCCDDB60AC5}" {
+        Position 59.676 0 -1047.239
+       }
+      }
+      IsClosedSpline 0
+      Width 1
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4591.767 168.094 5534.234
+  Points {
+   ShapePoint "{6182D6B75703C2D9}" {
+    Position -5.596 -0 93.216
+   }
+   ShapePoint "{6182D6B7E9133A08}" {
+    Position 0.474 -0 0.031
+   }
+   ShapePoint "{6182D6B7E9134A30}" {
+    Position 4.955 -0 -66.667
+   }
+   ShapePoint "{6182D6B7EE3B1E14}" {
+    Position 8.787 -0 -131.366
+   }
+   ShapePoint "{6182D6B7ED62A11D}" {
+    Position 12.904 -0 -201.372
+   }
+   ShapePoint "{6182D6B7F96D5DC1}" {
+    Position 18.234 -0 -293.745
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.596 -0 93.216
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position 0.474 -0 0.031
+       }
+       ShapePoint "{6182D6B74FDE8908}" {
+        Position 4.955 -0 -66.667
+       }
+       ShapePoint "{6182D6B74FDE8968}" {
+        Position 8.787 -0 -131.366
+       }
+       ShapePoint "{6182D6B74FDE8AA0}" {
+        Position 12.904 -0 -201.372
+       }
+       ShapePoint "{6182D6B75703B513}" {
+        Position 18.234 -0 -293.745
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4704.628 168.093 5543.706
+  Points {
+   ShapePoint "{6182D6B75703C2D9}" {
+    Position -5.596 -0 93.216
+   }
+   ShapePoint "{6182D6B7E9133A08}" {
+    Position 0.474 -0 0.031
+   }
+   ShapePoint "{6182D6B7E9134A30}" {
+    Position 4.955 -0 -66.667
+   }
+   ShapePoint "{6182D6B7EE3B1E14}" {
+    Position 8.787 -0 -131.366
+   }
+   ShapePoint "{6182D6B7ED62A11D}" {
+    Position 12.904 -0 -201.372
+   }
+   ShapePoint "{6182D6B7F96D5DC1}" {
+    Position 18.234 -0 -293.745
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -5.596 -0 93.216
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position 0.474 -0 0.031
+       }
+       ShapePoint "{6182D6B74FDE8908}" {
+        Position 4.955 -0 -66.667
+       }
+       ShapePoint "{6182D6B74FDE8968}" {
+        Position 8.787 -0 -131.366
+       }
+       ShapePoint "{6182D6B74FDE8AA0}" {
+        Position 12.904 -0 -201.372
+       }
+       ShapePoint "{6182D6B75703B513}" {
+        Position 18.234 -0 -293.745
+       }
+      }
+      IsClosedSpline 0
+      Width 0.55
+     }
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity : "{014070C042BDC10C}PrefabLibrary/Decals/Runway/Runway_CrossWalk_2x30.et" {
+ {
+  coords 4560.386 168.094 5329.499
+  angleY 87.324
+ }
+ {
+  coords 4528.753 168.094 5328.02
+  angleY 87.324
+ }
+ {
+  coords 4503.551 168.094 6324.852
+  angleY 87.324
+ }
+ {
+  coords 4471.918 168.094 6323.373
+  angleY 87.324
+ }
+ {
+  coords 4433.66 168.094 5324.517
+  angleY 87.324
+ }
+ {
+  coords 4377.261 168.094 6319.891
+  angleY 87.324
+ }
+ {
+  coords 4345.627 168.094 6318.412
+  angleY 87.324
+ }
+ {
+  coords 4402.028 168.094 5323.038
+  angleY 87.324
+ }
+}
+$grp GenericEntity : "{08EC3F22FA0347F3}PrefabLibrary/Props/Industrial/CargoContainer_01_20ft/CargoContainer_01_20ft_blue.et" {
+ {
+  coords 4850.678 168.094 5326.884
+ }
+ {
+  coords 4858.177 170.673 5326.855
+ }
+ {
+  coords 4761.135 168.178 5349.735
+  angleY 91.184
+ }
+ {
+  coords 4757.729 168.178 5417.927
+  angleY 91.184
+ }
+ {
+  coords 4754.236 168.178 5484.418
+  angleY 91.184
+ }
+}
+$grp GenericEntity : "{09A48FF902267632}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_1_grey.et" {
+ {
+  coords 4762.946 168.178 5359.97
+ }
+ {
+  coords 4759.541 168.178 5428.163
+ }
+ {
+  coords 4756.049 168.178 5494.656
+ }
+}
+$grp DecalEntity : "{22B0830DD0070203}PrefabLibrary/Decals/Markings/Decal_CrossWalk_01.et" {
+ {
+  coords 4710.91 -0.014 5519.042
+  angleX -90
+  angleZ -4.021
+  scale 5
+ }
+ {
+  coords 4715.13 -0.014 5452.958
+  angleX -89.972
+  angleY 180
+  angleZ 177.469
+  scale 5
+ }
+ {
+  coords 4719.063 0.019 5385.174
+  angleX -89.972
+  angleY 180
+  angleZ 177.469
+  scale 5
+ }
+ {
+  coords 4723.059 0.051 5319.031
+  angleX -89.972
+  angleY 180
+  angleZ 177.469
+  scale 5
+ }
+}
+GenericEntity : "{2B2ADD56B888EBC0}Prefabs/Compositions/Misc/SubCompositions/Storage/Slotted/Storage_Supplies_Containers_FIA_02.et" {
+ coords 4861.734 168.093 5339.857
+}
+GenericEntity : "{2DFD11FA1B85A6CA}PrefabLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_grey.et" {
+ coords 4839.925 168.094 5325.464
+}
+$grp GenericEntity : "{33D803F0FEBFD494}PrefabLibrary/Decals/Runway/Runway_Num3.et" {
+ {
+  coords 4544.951 168.094 5364.497
+  angleY -2.949
+  scale 1.051
+ }
+ {
+  coords 4418.828 168.094 5359.542
+  angleY -2.949
+  scale 1.051
+ }
+}
+GenericEntity : "{35B9DE7639F3355A}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_KAL.et" {
+ coords 4866.197 168.094 5326.71
+}
+$grp GenericEntity : "{39C4DF0581F3283F}Prefabs/Props/Military/AmmoBoxes/EquipmentBoxStack/EquipmentBoxStack_01_V1_base.et" {
+ {
+  coords 4761.572 168.179 5359.526
+ }
+ {
+  coords 4758.166 168.179 5427.719
+ }
+ {
+  coords 4754.674 168.178 5494.21
+ }
+}
+$grp Vehicle : "{4A465E25A866520E}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MTT-A_Black.et" {
+ Mi8MTT_A_Black2 {
+  coords 4739.083 168.003 5408.261
+  angleX 4.403
+  angleY -90.654
+ }
+ Mi8MTT_A_Black3 {
+  coords 4748.127 167.404 5297.91
+  angleX 4.403
+  angleY -90.654
+ }
+ Mi8MTT_A_Black4 {
+  coords 4735.443 168.227 5472.208
+  angleX 4.403
+  angleY -90.654
+ }
+ Mi8MTT_A_Black5 {
+  coords 4732.724 167.995 5540.635
+  angleX 4.519
+  angleY -90.654
+ }
+}
+$grp GenericEntity : "{5561A00DE3C377A3}PrefabLibrary/Decals/Runway/Runway_Line_6x30.et" {
+ {
+  coords 4514.597 168.473 5590.372
+  angleY -93.231
+ }
+ {
+  coords 4545.181 168.473 5592.098
+  angleY -93.231
+ }
+ {
+  coords 4516.97 168.473 6084.777
+  angleY -93.231
+ }
+ {
+  coords 4486.385 168.473 6083.051
+  angleY -93.231
+ }
+ {
+  coords 4387.458 168.473 5585.354
+  angleY -93.231
+ }
+ {
+  coords 4390.295 168.473 6079.786
+  angleY -93.231
+ }
+ {
+  coords 4359.709 168.473 6078.06
+  angleY -93.231
+ }
+ {
+  coords 4418.043 168.473 5587.082
+  angleY -93.231
+ }
+}
+$grp GenericEntity : "{5BD9F0EFF6275A9D}PrefabLibrary/Props/Military/BarrelMetal_01_military.et" {
+ {
+  coords 4763.787 168.178 5341.262
+ }
+ {
+  coords 4763.79 168.178 5340.401
+ }
+ {
+  coords 4763.834 168.178 5339.414
+ }
+ {
+  coords 4760.383 168.178 5409.455
+ }
+ {
+  coords 4760.386 168.178 5408.594
+ }
+ {
+  coords 4760.43 168.178 5407.605
+ }
+ {
+  coords 4756.891 168.178 5475.946
+ }
+ {
+  coords 4756.894 168.178 5475.085
+ }
+ {
+  coords 4756.937 168.178 5474.097
+ }
+}
+$grp GenericEntity : "{84B029EBE9BD61C8}Prefabs/Props/Industrial/Pallets/MarsBoxContainer_01.et" {
+ {
+  coords 4764.536 168.178 5333.6
+  angleY -91.342
+ }
+ {
+  coords 4761.131 168.178 5401.792
+  angleY -91.342
+ }
+ {
+  coords 4757.639 168.178 5468.283
+  angleY -91.342
+ }
+}
+$grp GenericEntity : "{8D42C046CCA42026}PrefabLibrary/Decals/Runway/Runway_Line_2x30.et" {
+ {
+  coords 4516.816 168.094 5428.47
+  angleY 86.802
+ }
+ {
+  coords 4520.176 168.094 5428.657
+  angleY 86.802
+ }
+ {
+  coords 4523.49 168.094 5428.842
+  angleY 86.802
+ }
+ {
+  coords 4561.125 168.094 5430.944
+  angleY 86.802
+ }
+ {
+  coords 4557.811 168.094 5430.76
+  angleY 86.802
+ }
+ {
+  coords 4554.451 168.094 5430.573
+  angleY 86.802
+ }
+ {
+  coords 4542.458 168.094 5672.421
+  angleY 86.802
+ }
+ {
+  coords 4539.186 168.094 5672.238
+  angleY 86.802
+ }
+ {
+  coords 4508.084 168.094 5670.396
+  angleY 86.802
+ }
+ {
+  coords 4511.354 168.094 5670.58
+  angleY 86.802
+ }
+ {
+  coords 4500.403 168.094 5837.968
+  angleY 86.802
+ }
+ {
+  coords 4531.731 168.094 5840.022
+  angleY 86.802
+ }
+ {
+  coords 4515.19 168.094 6232.44
+  angleY 86.802
+ }
+ {
+  coords 4511.875 168.094 6232.257
+  angleY 86.802
+ }
+ {
+  coords 4508.517 168.094 6232.069
+  angleY 86.802
+ }
+ {
+  coords 4477.555 168.094 6230.337
+  angleY 86.802
+ }
+ {
+  coords 4474.24 168.094 6230.153
+  angleY 86.802
+ }
+ {
+  coords 4470.881 168.094 6229.966
+  angleY 86.802
+ }
+ {
+  coords 4523.741 168.094 5999.389
+  angleY 86.802
+ }
+ {
+  coords 4520.47 168.094 5999.206
+  angleY 86.802
+ }
+ {
+  coords 4492.638 168.094 5997.548
+  angleY 86.802
+ }
+ {
+  coords 4489.368 168.094 5997.364
+  angleY 86.802
+ }
+ {
+  coords 4404.521 168.094 5835.002
+  angleY 86.802
+ }
+ {
+  coords 4415.598 168.094 5667.42
+  angleY 86.802
+ }
+ {
+  coords 4365.918 168.094 5992.555
+  angleY 86.802
+ }
+ {
+  coords 4388.984 168.094 6227.477
+  angleY 86.802
+ }
+ {
+  coords 4431.057 168.094 5425.765
+  angleY 86.802
+ }
+ {
+  coords 4427.696 168.094 5425.579
+  angleY 86.802
+ }
+ {
+  coords 4385.668 168.094 6227.292
+  angleY 86.802
+ }
+ {
+  coords 4373.19 168.094 5832.949
+  angleY 86.802
+ }
+ {
+  coords 4348.035 168.094 6225.19
+  angleY 86.802
+ }
+ {
+  coords 4344.673 168.094 6225.003
+  angleY 86.802
+ }
+ {
+  coords 4351.348 168.094 6225.373
+  angleY 86.802
+ }
+ {
+  coords 4382.31 168.094 6227.105
+  angleY 86.802
+ }
+ {
+  coords 4434.372 168.094 5425.95
+  angleY 86.802
+ }
+ {
+  coords 4397.024 168.094 5994.397
+  angleY 86.802
+ }
+ {
+  coords 4362.649 168.094 5992.372
+  angleY 86.802
+ }
+ {
+  coords 4381.225 168.094 5665.396
+  angleY 86.802
+ }
+ {
+  coords 4396.735 168.094 5423.847
+  angleY 86.802
+ }
+ {
+  coords 4393.751 168.094 5994.215
+  angleY 86.802
+ }
+ {
+  coords 4384.494 168.094 5665.58
+  angleY 86.802
+ }
+ {
+  coords 4393.421 168.094 5423.663
+  angleY 86.802
+ }
+ {
+  coords 4390.062 168.094 5423.477
+  angleY 86.802
+ }
+ {
+  coords 4412.327 168.094 5667.237
+  angleY 86.802
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{8E3EDA119269CCA6}PrefabLibrary/Structures/Airport/Hangar_01.et" {
+ {
+  coords 4750.609 0.084 5338.374
+  angleY -92.948
+ }
+ {
+  coords 4747.1 0.084 5406.529
+  angleY -92.948
+ }
+ {
+  coords 4740.162 0.084 5541.273
+  angleY -92.948
+ }
+ {
+  coords 4743.671 0.084 5473.118
+  angleY -92.948
+ }
+}
+$grp GenericEntity : "{95D947E744336F78}Prefabs/Props/Industrial/Workbench_01.et" {
+ {
+  coords 4745.813 168.178 5359.21
+  angleY 175.879
+ }
+ {
+  coords 4742.408 168.178 5427.402
+  angleY 175.879
+ }
+ {
+  coords 4738.916 168.178 5493.895
+  angleY 175.879
+ }
+}
+$grp GenericEntity : "{96C14B20A90F3257}PrefabLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_red.et" {
+ {
+  coords 4853.277 168.094 5328.559
+  angleY -1.109
+ }
+ {
+  coords 4853.343 168.094 5325.083
+  angleY -1.109
+ }
+}
+GenericEntity : "{A7F64E4FCF4A9F50}PrefabLibrary/Props/Industrial/CargoContainer_01_20ft/CargoContainer_01_20ft_green.et" {
+ coords 4858.21 168.094 5326.86
+}
+$grp GenericEntity : "{B30BECFFF41ECF2A}Prefabs/Compositions/Misc/SubCompositions/Decorations/Workbench_Notebook_USSR_01.et" {
+ {
+  coords 4749.782 168.178 5359.444
+  angleY 176.865
+ }
+ {
+  coords 4746.377 168.178 5427.637
+  angleY 176.865
+ }
+ {
+  coords 4742.886 168.178 5494.128
+  angleY 176.865
+ }
+}
+$grp GenericEntity : "{B5B46A19A002D647}PrefabLibrary/Decals/Runway/Runway_Line_WaitStart.et" {
+ {
+  coords 4587.885 168.094 5331.966
+  angleY -91.592
+ }
+ {
+  coords 4579.354 168.094 5641.326
+  angleY -91.592
+ }
+ {
+  coords 4453.813 168.094 5636.4
+  angleY -91.592
+ }
+}
+$grp GenericEntity : "{B6895A2FB9F47B9C}PrefabLibrary/Props/Industrial/TableWorkshop_01.et" {
+ {
+  coords 4764.826 168.151 5336.744
+  angleY 87.424
+ }
+ {
+  coords 4761.421 168.151 5404.937
+  angleY 87.424
+ }
+ {
+  coords 4757.929 177.895 5471.429
+  angleY 87.424
+ }
+}
+$grp GenericEntity : "{BA107BE94E9ECCD1}PrefabLibrary/Decals/Runway/Runway_Num1.et" {
+ {
+  coords 4541.016 168.094 5364.27
+  angleY -2.8
+  scale 1.065
+ }
+ {
+  coords 4414.893 168.094 5359.314
+  angleY -2.8
+  scale 1.065
+ }
+}
+$grp GenericEntity : "{BCE56C835FE15478}PrefabLibrary/Props/Industrial/CargoContainer_01_20ft/CargoContainer_01_20ft_red.et" {
+ {
+  coords 4863.594 168.094 5326.73
+ }
+ {
+  coords 4863.594 170.687 5326.73
+ }
+}
+GenericEntity : "{D215BC98417FA3CB}Prefabs/Vehicles/Airplanes/IL76/Plane_IL76USSR_Open.et" {
+ coords 4687.143 168.094 5334.107
+ angleY -36.264
+}
+$grp GenericEntity : "{D2274CAE9B71368C}PrefabLibrary/Props/Industrial/CargoContainer_01_20ft/CargoContainer_01_20ft_grey.et" {
+ {
+  coords 4860.917 168.094 5326.77
+ }
+ {
+  coords 4860.917 170.693 5326.77
+ }
+}
+$grp GenericEntity : "{D486FC7879A7AC40}PrefabLibrary/Props/Industrial/EngineCrane_01.et" {
+ {
+  coords 4763.248 168.179 5345.147
+  angleY -97.662
+ }
+ {
+  coords 4759.844 168.179 5413.338
+  angleY -97.662
+ }
+ {
+  coords 4756.352 168.178 5479.83
+  angleY -97.662
+ }
+}
+$grp GenericEntity : "{E17324998DE1BB87}Prefabs/Props/Military/MilitaryCrates/ShellContainerstack_01/ShellContainerstack_01_pile_big.et" {
+ {
+  coords 4753.155 168.178 5317.626
+ }
+ {
+  coords 4749.749 168.178 5385.817
+ }
+ {
+  coords 4746.256 168.179 5452.309
+ }
+}
+$grp GenericEntity : "{E757FCE9F55F6C57}PrefabLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_green.et" {
+ {
+  coords 4830.495 168.094 5321.665
+ }
+ {
+  coords 4853.32 170.688 5325.018
+ }
+}
+$grp GenericEntity : "{ED4073237B66DF83}Prefabs/Structures/BuildingParts/Infrastructure/ContainerSpreader_01/ContainerSpreader_01_chain_40ft.et" {
+ {
+  coords 4747.68 171.847 5357.31
+  angleY -93.162
+ }
+ {
+  coords 4744.276 171.847 5425.501
+  angleY -93.162
+ }
+ {
+  coords 4740.784 171.82 5491.992
+  angleY -93.162
+ }
+}
+$grp GenericEntity : "{F382B497C101F59C}Prefabs/Compositions/Misc/SubCompositions/Storage/Slotted/Storage_Supplies_Containers_FIA_04.et" {
+ {
+  coords 4760.241 168.178 5320.748
+  angleY -3.82
+ }
+ {
+  coords 4756.836 168.178 5388.94
+  angleY -3.82
+ }
+ {
+  coords 4753.345 168.178 5455.432
+  angleY -3.82
+ }
+}
+GenericEntity : "{F73662767AF7D7B5}PrefabLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_blue.et" {
+ coords 4822.6 168.094 5320.902
+}
+$grp GenericEntity : "{FE4A51A953C54DA0}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle.et" {
+ {
+  coords 4763.14 168.178 5352.089
+ }
+ {
+  coords 4763.14 168.178 5353.226
+ }
+ {
+  coords 4763.14 168.178 5354.465
+ }
+ {
+  coords 4759.736 168.178 5420.281
+ }
+ {
+  coords 4759.736 168.178 5421.417
+ }
+ {
+  coords 4759.736 168.178 5422.658
+ }
+ {
+  coords 4756.244 168.178 5486.774
+ }
+ {
+  coords 4756.244 168.178 5487.91
+ }
+ {
+  coords 4756.244 168.178 5489.149
+ }
+}
